@@ -1,7 +1,11 @@
 👋 Hi, I'm @QnarikPoghosyan.
+
 👀 I'm interested in artificial intelligence development and programming.
+
 🌱 Currently, I'm learning Python programming, machine learning, data visualization, and data analysis.
+
 💞️ I'm open to collaborating in the field of artificial intelligence and machine learning.
+
 📫 You can reach me through my GitHub profile.
 
 
